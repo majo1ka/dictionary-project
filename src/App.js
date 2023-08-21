@@ -16,6 +16,7 @@ function App() {
             <a
               href="https://github.com/majo1ka/dictionary-project"
               target="_blank"
+              rel="noreferrer"
             >
               Maja
             </a>
